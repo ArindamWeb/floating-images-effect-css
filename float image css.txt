@@ -1,0 +1,91 @@
+/*Adjust the keyframes according to your 
+design*/
+
+
+
+/* image 1 */
+
+
+.imagefloat1 {
+    animation: float 2.5s ease-
+
+in-out infinite;
+}
+
+@keyframes float {
+	0% {
+		
+
+transform: translate(0, 0);
+	}
+	50% {
+		
+
+transform: translate(0, -50px);
+	}
+	100% {
+		
+
+transform: translate(0, 0);
+	}
+}
+
+
+
+
+/* image 2 */
+
+
+.imagefloat2 {
+    animation: float 1.5s ease-
+
+in-out infinite;
+}
+
+@keyframes float {
+	0% {
+		
+
+transform: translate(0, 0);
+	}
+	50% {
+		
+
+transform: translate(0, -50px);
+	}
+	100% {
+		
+
+transform: translate(0, 0);
+	}
+}
+
+
+
+
+/* image 3 */
+
+
+.imagefloat3 {
+    animation: float 6s ease-in-
+
+out infinite;
+}
+
+@keyframes float {
+	0% {
+		
+
+transform: translate(0, 0);
+	}
+	50% {
+		
+
+transform: translate(0, -15px);
+	}
+	100% {
+		
+
+transform: translate(0, 0);
+	}
+}
